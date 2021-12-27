@@ -4,7 +4,7 @@
 
 Add `github>sushidesu/renovate-config` to the "extends" array in your `renovate.json` file. It is not necessary to install any packages.
 
-```json
+```json5
 {
   "extends": [
     "github>sushidesu/renovate-config",
